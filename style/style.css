@@ -1,0 +1,235 @@
+
+/* fira sance css class */
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .fira-sans-extralight {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .fira-sans-light {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .fira-sans-extrabold {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .fira-sans-black {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .fira-sans-thin-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .fira-sans-extralight-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .fira-sans-light-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .fira-sans-regular-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .fira-sans-medium-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .fira-sans-semibold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .fira-sans-bold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .fira-sans-extrabold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .fira-sans-black-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px;
+}
+.nav-title{
+font-weight:800px;
+font-size: 32px;
+}
+nav ul li{
+    list-style: none;
+}
+.btn-primary{
+    color:#006A50;
+    font-weight:SemiBold;
+    font-size: 20px;
+    padding: 10px 30px;
+    background-color: white;
+    border-radius: 5px;
+}
+/* banar style */
+.banner-greating{
+    font-size: 24px;
+    font-weight: 400px;
+    color: #413a3a;
+}
+.banner-title{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.banner-profile{
+    width: 474px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 160px 0px 150px;
+    background-color: #16a17f;
+}
+.banner-contant{
+    max-width: 662px;
+    margin: 117px 0px 117px 59px;
+   
+}
+.btn-explore{
+    color: white;
+    background-color:#006A50;
+    font-weight:Semibold;
+    font-size: 18px;
+    padding: 17px 34px;
+}
+/* section */
+.section-title{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+}
+/* skills */
+.skill-container{ 
+    display: flex ;
+    gap: 24px;
+}
+.skill{
+  padding: 30px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+  
+}
+main section{
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+/* skills1 */
+.skill-container1{
+  display: flex;
+  gap: 24px;
+}
+.skill-1{
+  padding: 32px;
+  background-color:#5c88d3;
+  border-radius: 5px;
+  box-shadow: 0px 6px 50px 0px rgba(44, 39, 39, 0.06);
+}
+.skills1{
+  padding:32px;
+}
+.btn-primary1{
+  color: white;
+  background-color:#5490F5;
+  padding:20px;
+}
+.skill-2{
+  padding: 32px;
+  background-color:#09A15C;
+  border-radius: 5px;
+  
+}
+.btn-primary2{
+  color: white;
+  background-color:#09A15C;
+  padding:20px;
+}
+.skill-3{
+  padding: 32px;
+  background-color:#F7EBCF;
+  border-radius: 5px;
+}
+.btn-primary3{
+  color: white;
+  background-color:#FFC239;
+  padding:20px;
+}
+
+/* peragraph */
+.paragraph-p{
+  font-weight: regular;
+  font-size: 16px;
+  color: #0E0E0E;
+}
+.paragraph{
+  
+}
